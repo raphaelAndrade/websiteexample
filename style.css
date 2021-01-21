@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding:0;
+}
+
+h1{
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    height: 850px;
+    border: 2px solid black;
+    margin: 50px auto;
+    border-radius: 5px;
+}
+
+.box {
+    border-radius: 5px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 10px;
+}
+
+.wrap {
+    width: 55%;
+    margin: auto;
+}
